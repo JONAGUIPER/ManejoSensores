@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Manejo Sensores</string>
+    <string name="noHayGiroscopio">Giroscopio no disponible</string>
+    <string name="mensajeNoHayGiroscopio">El dispositivo no dispone de ningún sensor de giroscopio, lo que sería necesario para que esta aplicación funcione correctamente. Por favor ejecutela en un dispositivo más reciente que tiene un giroscopio</string>
+    <string name="OK">OK</string>
+</resources>
